@@ -1,18 +1,18 @@
 # Apartment Search Results
 
-**Last updated:** October 03, 2026 at 08:49 PM
+**Last updated:** October 04, 2026 at 04:59 AM
 
 **Search:** $0-$900/mo | studio, 1, 2 bedroom(s) | NC
 
-**Total listings found:** 150
+**Total listings found:** 161
 
-**By source:** rent.com: 150
+**By source:** rent.com: 161
 
 ---
 
 **Jump to:**
 - [Government / Subsidized / Senior Housing (0)](#government--subsidized--senior-housing)
-- [Midland & East Charlotte (Market Rentals) (3)](#midland--east-charlotte-market-rentals)
+- [Midland & East Charlotte (Market Rentals) (14)](#midland--east-charlotte-market-rentals)
 - [Greater Charlotte (Market Rentals) (147)](#greater-charlotte-market-rentals)
 - [Other Areas (Market Rentals) (0)](#other-areas-market-rentals)
 
@@ -44,13 +44,24 @@
 
 _No listings found in this category._
 
-## Midland & East Charlotte (Market Rentals) (3)
+## Midland & East Charlotte (Market Rentals) (14)
 
 | Price | Beds/Baths | City | Address | Phone | Listed | Type | Title | Source | Directions |
 |-------|-----------|------|---------|-------|--------|------|-------|--------|------------|
 | Call | ?bd | Charlotte | 5920 Monroe Rd, Charlotte, NC | - | - | Market | 59Twenty @ Monroe | - | [Map](https://www.google.com/maps/dir/?api=1&destination=5920+Monroe+Rd%2C+Charlotte%2C+NC) |
 | Call | ?bd | Charlotte | 4811 Monroe Rd, Charlotte, NC | - | - | Market | Lake Hill Apartments | - | [Map](https://www.google.com/maps/dir/?api=1&destination=4811+Monroe+Rd%2C+Charlotte%2C+NC) |
 | Call | ?bd | Charlotte | 5417 Albemarle Rd, Charlotte, NC | - | - | Market | Sail Boat Bay | - | [Map](https://www.google.com/maps/dir/?api=1&destination=5417+Albemarle+Rd%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 14119 Clayborn St, Charlotte, NC | - | - | Market | 14119 Clayborn St | - | [Map](https://www.google.com/maps/dir/?api=1&destination=14119+Clayborn+St%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 3947 Wagon Wy, Charlotte, NC | - | - | Market | 3947 Wagon Wy | - | [Map](https://www.google.com/maps/dir/?api=1&destination=3947+Wagon+Wy%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 12009 Lemmond Farm Dr, Charlotte, NC | - | - | Market | Lemmond Farm | - | [Map](https://www.google.com/maps/dir/?api=1&destination=12009+Lemmond+Farm+Dr%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 13330 Maize Ln, Charlotte, NC | - | - | Market | East Mint | - | [Map](https://www.google.com/maps/dir/?api=1&destination=13330+Maize+Ln%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 4790 Polk Ford Rd unit 4790 Polk Ford Rd - B, Charlotte, NC | - | - | Market | 4790 Polk Ford Rd unit 4790 Polk Ford Rd - B | - | [Map](https://www.google.com/maps/dir/?api=1&destination=4790+Polk+Ford+Rd+unit+4790+Polk+Ford+Rd+-+B%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 11051 Lawyers Rd, Charlotte, NC | - | - | Market | 11051 Lawyers Rd | - | [Map](https://www.google.com/maps/dir/?api=1&destination=11051+Lawyers+Rd%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 3812 Vanderburg Dr, Charlotte, NC | - | - | Market | 3812 Vanderburg Dr | - | [Map](https://www.google.com/maps/dir/?api=1&destination=3812+Vanderburg+Dr%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 5020 James Bradley Lee Wy unit 7010-101, Charlotte, NC | - | - | Market | 5020 James Bradley Lee Wy unit 7010-101 | - | [Map](https://www.google.com/maps/dir/?api=1&destination=5020+James+Bradley+Lee+Wy+unit+7010-101%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 5020 James Bradley Lee Wy unit 7010-207, Charlotte, NC | - | - | Market | 5020 James Bradley Lee Wy unit 7010-207 | - | [Map](https://www.google.com/maps/dir/?api=1&destination=5020+James+Bradley+Lee+Wy+unit+7010-207%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 9610 Stoney Glen Dr, Charlotte, NC | - | - | Market | Residences at West Mint | - | [Map](https://www.google.com/maps/dir/?api=1&destination=9610+Stoney+Glen+Dr%2C+Charlotte%2C+NC) |
+| Call | ?bd | Charlotte | 1065 Ridgeway Dr, Charlotte, NC | - | - | Market | Forest Park Crossing | - | [Map](https://www.google.com/maps/dir/?api=1&destination=1065+Ridgeway+Dr%2C+Charlotte%2C+NC) |
 
 ## Greater Charlotte (Market Rentals) (147)
 
